@@ -1,4 +1,4 @@
-# Data Analysis - IT Academy
+# Data Analysis - IT Academy 2024
 Repository for the activities of Data Analysis specialization from IT Academy
 
 ## [Sprint 2](sprint_2_sql)
