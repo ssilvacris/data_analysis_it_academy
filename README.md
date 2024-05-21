@@ -1,12 +1,7 @@
 # Data Analysis - IT Academy 2024
 Repository for the activities of Data Analysis specialization from IT Academy
 
-## [Sprint 2](sprint_2_sql)
+## [Sprint 2](https://github.com/ssilvacris/data_analysis_it_academy_2024/tree/main/sprint_2)
 This folder presents exercises that are fundamentals of SQL, addressing key concepts for effective relational database design. 
 
-**Concepts explored**:
-- primary and secondary keys
-- relationships between different tables
-- subqueries 
-- specialized operators 
-- extracting information from complex databases.
+
