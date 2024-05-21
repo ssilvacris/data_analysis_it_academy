@@ -1,7 +1,7 @@
 # Data Analysis - IT Academy
 Repository for the activities of Data Analysis specialization from IT Academy
 
-## Sprint 2
+## [Sprint 2](sprint_2_sql)
 This folder presents exercises that are fundamentals of SQL, addressing key concepts for effective relational database design. 
 
 **Concepts explored**:
