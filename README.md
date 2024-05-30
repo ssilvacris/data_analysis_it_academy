@@ -4,6 +4,6 @@ Repository for the activities of Data Analysis specialization from IT Academy
 ## [Sprint 2](https://github.com/ssilvacris/data_analysis_it_academy_2024/tree/main/sprint_2)
 This folder presents exercises that are fundamentals of SQL, addressing key concepts for effective relational database design. 
 
-## Sprint 2
+## [Sprint 3](https://github.com/ssilvacris/data_analysis_it_academy_2024/tree/main/sprint_3)
 This sprint presents advanced table manipulation in SQL, and efficient handling of indexes and views exploration.
 
